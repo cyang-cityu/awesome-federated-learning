@@ -8,6 +8,7 @@ This repo is a collection of AWESOME things about federated learning, including 
     - [Introduction & Survey](#introduction--survey)
     - [Model Fusion](#model-fusion)
     - [Model Inversion](#model-inversion)
+    - [Specific Problem](#specific-problem)
     - [Medical Related](#medical-related)
 
 # Papers
@@ -18,8 +19,11 @@ This repo is a collection of AWESOME things about federated learning, including 
 ### Model Inversion
 * See through Gradients: Image Batch Recovery via GradInversion [[CVPR 2021]](https://arxiv.org/pdf/2104.07586.pdf)
 * Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion [[CVPR 2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yin_Dreaming_to_Distill_Data-Free_Knowledge_Transfer_via_DeepInversion_CVPR_2020_paper.pdf)[[Pytorch]](https://github.com/NVlabs/DeepInversion)
+* Deep Leakage from Gradients [[NIPS2019]](https://arxiv.org/pdf/1906.08935.pdf)[[Pytorch]](https://github.com/mit-han-lab/dlg)
+* iDLG: Improved Deep Leakage from Gradients [[Arxiv2020]](https://arxiv.org/pdf/2001.02610.pdf)
 
-
+### Specific Problem
+* Addressing Class Imbalance in Federated Learning [[AAAI2021]](https://arxiv.org/pdf/2008.06217.pdf)[[Pytorch]](https://github.com/balanced-fl/Addressing-Class-Imbalance-FL)
 ### Medical Related
 * FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space [[CVPR2021]](https://arxiv.org/pdf/2103.06030.pdf)[[Pytorch]](https://github.com/liuquande/FedDG-ELCFS)
 * FedBN: Federated Learning on Non-IID Features via Local Batch Normalization [[ICLR2021]](https://arxiv.org/pdf/2102.07623.pdf)[[Pytorch]](https://github.com/med-air/FedBN)
