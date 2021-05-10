@@ -18,9 +18,13 @@ This repo is a collection of AWESOME things about federated learning, including 
 * Model Fusion via Optimal Transport [[NIPS2020]](https://proceedings.neurips.cc/paper/2020/file/fb2697869f56484404c8ceee2985b01d-Paper.pdf)[[Pytorch]](https://github.com/sidak/otfusion)
 ### Model Inversion
 * See through Gradients: Image Batch Recovery via GradInversion [[CVPR 2021]](https://arxiv.org/pdf/2104.07586.pdf)
+* The Secret Revealer: Generative Model-Inversion Attacks Against Deep Neural
+Networks [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_The_Secret_Revealer_Generative_Model-Inversion_Attacks_Against_Deep_Neural_Networks_CVPR_2020_paper.pdf)
 * Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion [[CVPR 2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yin_Dreaming_to_Distill_Data-Free_Knowledge_Transfer_via_DeepInversion_CVPR_2020_paper.pdf)[[Pytorch]](https://github.com/NVlabs/DeepInversion)
 * Deep Leakage from Gradients [[NIPS2019]](https://arxiv.org/pdf/1906.08935.pdf)[[Pytorch]](https://github.com/mit-han-lab/dlg)
 * iDLG: Improved Deep Leakage from Gradients [[Arxiv2020]](https://arxiv.org/pdf/2001.02610.pdf)
+* Inverting Deep Generative models,
+One layer at a time [[NIPS2019]](https://proceedings.neurips.cc/paper/2019/file/24389bfe4fe2eba8bf9aa9203a44cdad-Paper.pdf)
 
 ### Specific Problem
 * Addressing Class Imbalance in Federated Learning [[AAAI2021]](https://arxiv.org/pdf/2008.06217.pdf)[[Pytorch]](https://github.com/balanced-fl/Addressing-Class-Imbalance-FL)
