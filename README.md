@@ -24,6 +24,8 @@ This repo is a collection of AWESOME things about federated learning, including 
 
 ### Specific Problem
 * Addressing Class Imbalance in Federated Learning [[AAAI2021]](https://arxiv.org/pdf/2008.06217.pdf)[[Pytorch]](https://github.com/balanced-fl/Addressing-Class-Imbalance-FL)
+* Learn distributed GAN with Temporary
+Discriminators [[ECCV2020]](https://arxiv.org/pdf/2007.09221.pdf)[[Pytorch]](https://github.com/huiqu18/TDGAN-PyTorch)
 ### Medical Related
 * FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space [[CVPR2021]](https://arxiv.org/pdf/2103.06030.pdf)[[Pytorch]](https://github.com/liuquande/FedDG-ELCFS)
 * FedBN: Federated Learning on Non-IID Features via Local Batch Normalization [[ICLR2021]](https://arxiv.org/pdf/2102.07623.pdf)[[Pytorch]](https://github.com/med-air/FedBN)
