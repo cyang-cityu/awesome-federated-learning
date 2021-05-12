@@ -14,6 +14,7 @@ This repo is a collection of AWESOME things about federated learning, including 
 # Papers
 ### Introduction & Survey
 ### Model Fusion
+* Model-Contrastive Federated Learning [[CVPR 2021]](https://arxiv.org/pdf/2103.16257.pdf)
 * Federated Learning with Matched Averaging [[ICLR2020]](https://openreview.net/pdf?id=BkluqlSFDS)[[Pytorch]](https://github.com/IBM/FedMA)
 * Model Fusion via Optimal Transport [[NIPS2020]](https://proceedings.neurips.cc/paper/2020/file/fb2697869f56484404c8ceee2985b01d-Paper.pdf)[[Pytorch]](https://github.com/sidak/otfusion)
 ### Model Inversion
