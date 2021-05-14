@@ -6,18 +6,22 @@ This repo is a collection of AWESOME things about federated learning, including 
 - [Contents](#contents)
 - [Papers](#papers)
     - [Introduction & Survey](#introduction--survey)
-    - [Model Fusion](#model-fusion)
+    - [Global Model Fusion](#global-model-fusion)
+    - [Local Model Training](#local-model-training)
     - [Model Inversion](#model-inversion)
     - [Specific Problem](#specific-problem)
     - [Medical Related](#medical-related)
 
 # Papers
 ### Introduction & Survey
-### Model Fusion
-* Model-Contrastive Federated Learning [[CVPR2021]](https://arxiv.org/pdf/2103.16257.pdf)[[Pytorch]](https://github.com/QinbinLi/MOON)
+### Global Model Fusion
 * Federated Learning with Fair Averaging [[IJCAI2021]](https://arxiv.org/pdf/2104.14937.pdf)
 * Federated Learning with Matched Averaging [[ICLR2020]](https://openreview.net/pdf?id=BkluqlSFDS)[[Pytorch]](https://github.com/IBM/FedMA)
 * Model Fusion via Optimal Transport [[NIPS2020]](https://proceedings.neurips.cc/paper/2020/file/fb2697869f56484404c8ceee2985b01d-Paper.pdf)[[Pytorch]](https://github.com/sidak/otfusion)
+
+### Local Model Training
+* Model-Contrastive Federated Learning [[CVPR2021]](https://arxiv.org/pdf/2103.16257.pdf)[[Pytorch]](https://github.com/QinbinLi/MOON)
+  
 ### Model Inversion
 * See through Gradients: Image Batch Recovery via GradInversion [[CVPR 2021]](https://arxiv.org/pdf/2104.07586.pdf)
 * Provable Defense against Privacy Leakage in Federated Learning from Representation Perspective [[CVPR2021]](https://arxiv.org/pdf/2012.06043.pdf)
