@@ -22,6 +22,7 @@ This repo is a collection of AWESOME things about federated learning, including 
 ### Local Model Training
 * Model-Contrastive Federated Learning [[CVPR2021]](https://arxiv.org/pdf/2103.16257.pdf)[[Pytorch]](https://github.com/QinbinLi/MOON)
 * FedBN: Federated Learning on Non-IID Features via Local Batch Normalization [[ICLR2021]](https://arxiv.org/pdf/2102.07623.pdf)[[Pytorch]](https://github.com/med-air/FedBN)
+* Personalized Cross-Silo Federated Learning on Non-IID Data [[FedAMP]](https://arxiv.org/pdf/2007.03797.pdf)[[API]](https://t.ly/nGN9)
 * FedProx: Federated Optimization in Heterogeneous Networks [[MLSys2020]](https://arxiv.org/pdf/1812.06127.pdf)[[Pytorch]](https://github.com/litian96/FedProx)
 * Federated Mutual Learning [[Arxiv2020]](https://arxiv.org/pdf/2006.16765.pdf)
 * FedAvg: Communication-Efficient Learning of Deep Networks from Decentralized Data [[AISTATS2017]](https://arxiv.org/pdf/1602.05629.pdf)[[Pytorch]](https://github.com/shaoxiongji/federated-learning)
