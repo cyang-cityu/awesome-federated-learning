@@ -18,6 +18,7 @@ This repo is a collection of AWESOME things about federated learning, including 
 * Federated Learning with Fair Averaging [[IJCAI2021]](https://arxiv.org/pdf/2104.14937.pdf)
 * Federated Learning with Matched Averaging [[ICLR2020]](https://openreview.net/pdf?id=BkluqlSFDS)[[Pytorch]](https://github.com/IBM/FedMA)
 * Model Fusion via Optimal Transport [[NIPS2020]](https://proceedings.neurips.cc/paper/2020/file/fb2697869f56484404c8ceee2985b01d-Paper.pdf)[[Pytorch]](https://github.com/sidak/otfusion)
+* Ensemble Distillation for Robust Model Fusion in Federated Learning [[NIPS2020]](https://proceedings.neurips.cc/paper/2020/file/18df51b97ccd68128e994804f3eccc87-Supplemental.pdf)
 
 ### Local Model Training
 * Model-Contrastive Federated Learning [[CVPR2021]](https://arxiv.org/pdf/2103.16257.pdf)[[Pytorch]](https://github.com/QinbinLi/MOON)
