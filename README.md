@@ -19,6 +19,7 @@ This repo is a collection of AWESOME things about federated learning, including 
 * Federated Learning with Matched Averaging [[ICLR2020]](https://openreview.net/pdf?id=BkluqlSFDS)[[Pytorch]](https://github.com/IBM/FedMA)
 * Model Fusion via Optimal Transport [[NIPS2020]](https://proceedings.neurips.cc/paper/2020/file/fb2697869f56484404c8ceee2985b01d-Paper.pdf)[[Pytorch]](https://github.com/sidak/otfusion)
 * Ensemble Distillation for Robust Model Fusion in Federated Learning [[NIPS2020]](https://proceedings.neurips.cc/paper/2020/file/18df51b97ccd68128e994804f3eccc87-Supplemental.pdf)
+* FedAvg: Communication-Efficient Learning of Deep Networks from Decentralized Data [[AISTATS2017]](https://arxiv.org/pdf/1602.05629.pdf)[[Pytorch]](https://github.com/shaoxiongji/federated-learning)
 
 ### Local Model Training
 * Model-Contrastive Federated Learning [[CVPR2021]](https://arxiv.org/pdf/2103.16257.pdf)[[Pytorch]](https://github.com/QinbinLi/MOON)
@@ -27,7 +28,6 @@ This repo is a collection of AWESOME things about federated learning, including 
 * FedNova: Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization [[NIPS2020]](https://proceedings.neurips.cc/paper/2020/file/564127c03caab942e503ee6f810f54fd-Paper.pdf)[[Pytorch]](https://github.com/JYWa/FedNova)
 * FedProx: Federated Optimization in Heterogeneous Networks [[MLSys2020]](https://arxiv.org/pdf/1812.06127.pdf)[[Pytorch]](https://github.com/litian96/FedProx)
 * Federated Mutual Learning [[Arxiv2020]](https://arxiv.org/pdf/2006.16765.pdf)
-* FedAvg: Communication-Efficient Learning of Deep Networks from Decentralized Data [[AISTATS2017]](https://arxiv.org/pdf/1602.05629.pdf)[[Pytorch]](https://github.com/shaoxiongji/federated-learning)
 * On the Convergence of FedAvg on Non-IID Data [[ICLR2020]](https://arxiv.org/pdf/1907.02189.pdf)
   
 ### Model Inversion
