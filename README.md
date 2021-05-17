@@ -14,6 +14,8 @@ This repo is a collection of AWESOME things about federated learning, including 
 
 # Papers
 ### Introduction & Survey
+* Federated Learning on Non-IID Data Silos: An Experimental
+Study [[Arxiv2021]](https://arxiv.org/pdf/2102.02079.pdf)
 ### Global Model Fusion
 * Federated Learning with Fair Averaging [[IJCAI2021]](https://arxiv.org/pdf/2104.14937.pdf)
 * Federated Learning with Matched Averaging [[ICLR2020]](https://openreview.net/pdf?id=BkluqlSFDS)[[Pytorch]](https://github.com/IBM/FedMA)
@@ -47,6 +49,7 @@ One layer at a time [[NIPS2019]](https://proceedings.neurips.cc/paper/2019/file/
 Discriminators [[ECCV2020]](https://arxiv.org/pdf/2007.09221.pdf)[[Pytorch]](https://github.com/huiqu18/TDGAN-PyTorch)
 ### Medical Related
 * FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space [[CVPR2021]](https://arxiv.org/pdf/2103.06030.pdf)[[Pytorch]](https://github.com/liuquande/FedDG-ELCFS)
+* Multi-institutional Collaborations for Improving Deep Learning-based Magnetic Resonance Image Reconstruction Using Federated Learning [[CVPR2021]](https://arxiv.org/pdf/2103.02148.pdf)[[Pytorch]](https://github.com/guopengf/FL-MRCM)
 * Multi-site fMRI Analysis Using Privacy-preserving Federated Learning and Domain Adaptation: ABIDE Results [[MIA2020]](https://arxiv.org/pdf/2001.05647.pdf)[[Pytorch]](https://github.com/xxlya/Fed_ABIDE)
 * Federated Semi-Supervised Learning for COVID Region Segmentation in Chest CT using Multi-National Data from China, Italy, Japan [[MIA2020]](https://arxiv.org/pdf/2011.11750.pdf)
 * Variation-Aware Federated Learning with Multi-Source Decentralized Medical Image Data [[JBHI2020]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9268161)
