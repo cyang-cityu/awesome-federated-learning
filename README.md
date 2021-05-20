@@ -30,6 +30,7 @@ Study [[Arxiv2021]](https://arxiv.org/pdf/2102.02079.pdf)
 * FedNova: Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization [[NIPS2020]](https://proceedings.neurips.cc/paper/2020/file/564127c03caab942e503ee6f810f54fd-Paper.pdf)[[Pytorch]](https://github.com/JYWa/FedNova)
 * SCAFFOLD: Stochastic Controlled Averaging for Federated Learning [[ICML2020]](https://arxiv.org/pdf/1910.06378.pdf)
 * FedProx: Federated Optimization in Heterogeneous Networks [[MLSys2020]](https://arxiv.org/pdf/1812.06127.pdf)[[Pytorch]](https://github.com/litian96/FedProx)
+* Personalized Federated Learning with Theoretical Guarantees: A Model-Agnostic Meta-Learning Approach [[NIPS2020]](https://proceedings.neurips.cc//paper/2020/file/24389bfe4fe2eba8bf9aa9203a44cdad-Paper.pdf)
 * Federated Mutual Learning [[Arxiv2020]](https://arxiv.org/pdf/2006.16765.pdf)
 * On the Convergence of FedAvg on Non-IID Data [[ICLR2020]](https://arxiv.org/pdf/1907.02189.pdf)
   
