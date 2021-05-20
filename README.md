@@ -31,6 +31,7 @@ Study [[Arxiv2021]](https://arxiv.org/pdf/2102.02079.pdf)
 * SCAFFOLD: Stochastic Controlled Averaging for Federated Learning [[ICML2020]](https://arxiv.org/pdf/1910.06378.pdf)
 * FedProx: Federated Optimization in Heterogeneous Networks [[MLSys2020]](https://arxiv.org/pdf/1812.06127.pdf)[[Pytorch]](https://github.com/litian96/FedProx)
 * Personalized Federated Learning with Theoretical Guarantees: A Model-Agnostic Meta-Learning Approach [[NIPS2020]](https://proceedings.neurips.cc//paper/2020/file/24389bfe4fe2eba8bf9aa9203a44cdad-Paper.pdf)
+* Personalized Federated Learning with Moreau Envelopes [[NIPS2020]](https://proceedings.neurips.cc/paper/2020/file/f4f1f13c8289ac1b1ee0ff176b56fc60-Paper.pdf)
 * Federated Mutual Learning [[Arxiv2020]](https://arxiv.org/pdf/2006.16765.pdf)
 * On the Convergence of FedAvg on Non-IID Data [[ICLR2020]](https://arxiv.org/pdf/1907.02189.pdf)
   
