@@ -19,6 +19,7 @@ Study [[Arxiv2021]](https://arxiv.org/pdf/2102.02079.pdf)
 ### Global Model Fusion
 * Federated Learning with Fair Averaging [[IJCAI2021]](https://arxiv.org/pdf/2104.14937.pdf)
 * Federated Learning with Matched Averaging [[ICLR2020]](https://openreview.net/pdf?id=BkluqlSFDS)[[Pytorch]](https://github.com/IBM/FedMA)
+* Fair Resource Allocation in Federated Learning [[ICLR2020]](https://arxiv.org/pdf/1905.10497.pdf)
 * Model Fusion via Optimal Transport [[NIPS2020]](https://proceedings.neurips.cc/paper/2020/file/fb2697869f56484404c8ceee2985b01d-Paper.pdf)[[Pytorch]](https://github.com/sidak/otfusion)
 * Ensemble Distillation for Robust Model Fusion in Federated Learning [[NIPS2020]](https://proceedings.neurips.cc/paper/2020/file/18df51b97ccd68128e994804f3eccc87-Supplemental.pdf)
 * FedAvg: Communication-Efficient Learning of Deep Networks from Decentralized Data [[AISTATS2017]](https://arxiv.org/pdf/1602.05629.pdf)[[Pytorch]](https://github.com/shaoxiongji/federated-learning)
