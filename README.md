@@ -14,8 +14,8 @@ This repo is a collection of AWESOME things about federated learning, including 
 
 # Papers
 ### Introduction & Survey
-* Federated Learning on Non-IID Data Silos: An Experimental
-Study [[Arxiv2021]](https://arxiv.org/pdf/2102.02079.pdf)
+* Federated Learning on Non-IID Data Silos: An Experimental Study [[Arxiv2021]](https://arxiv.org/pdf/2102.02079.pdf)
+* Federated Learning: Challenges, Methods, and Future Directions [[SPM2020]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9084352)
 ### Global Model Fusion
 * Federated Learning with Fair Averaging [[IJCAI2021]](https://arxiv.org/pdf/2104.14937.pdf)
 * Federated Learning with Matched Averaging [[ICLR2020]](https://openreview.net/pdf?id=BkluqlSFDS)[[Pytorch]](https://github.com/IBM/FedMA)
