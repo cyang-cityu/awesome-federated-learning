@@ -39,6 +39,7 @@ This repo is a collection of AWESOME things about federated learning, including 
 ### Model Inversion
 * See through Gradients: Image Batch Recovery via GradInversion [[CVPR 2021]](https://arxiv.org/pdf/2104.07586.pdf)
 * Provable Defense against Privacy Leakage in Federated Learning from Representation Perspective [[CVPR2021]](https://arxiv.org/pdf/2012.06043.pdf)
+* Inverting Gradients - How easy is it to break privacy in federated learning? [[NIPS2020]](https://proceedings.neurips.cc/paper/2020/file/c4ede56bbd98819ae6112b20ac6bf145-Paper.pdf)
 * The Secret Revealer: Generative Model-Inversion Attacks Against Deep Neural
 Networks [[CVPR2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_The_Secret_Revealer_Generative_Model-Inversion_Attacks_Against_Deep_Neural_Networks_CVPR_2020_paper.pdf)
 * Dreaming to Distill: Data-free Knowledge Transfer via DeepInversion [[CVPR 2020]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yin_Dreaming_to_Distill_Data-Free_Knowledge_Transfer_via_DeepInversion_CVPR_2020_paper.pdf)[[Pytorch]](https://github.com/NVlabs/DeepInversion)
