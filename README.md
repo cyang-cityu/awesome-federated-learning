@@ -53,7 +53,7 @@ One layer at a time [[NIPS2019]](https://proceedings.neurips.cc/paper/2019/file/
 ### Specific Problem
 * Addressing Class Imbalance in Federated Learning [[AAAI2021]](https://arxiv.org/pdf/2008.06217.pdf)[[Pytorch]](https://github.com/balanced-fl/Addressing-Class-Imbalance-FL)
 * Self-Balancing Federated Learning With Global Imbalanced Data in Mobile Systems [[TPDS2021]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9141436)
-* Learn distributed GAN with Temporary
+* Learn distributed GAN with Temporary Discriminators [[ECCV2020]](https://arxiv.org/pdf/2007.09221.pdf)
 * Federated Adversarial Domain Adaptation [[ICLR2020]](https://arxiv.org/pdf/1911.02054.pdf)
 Discriminators [[ECCV2020]](https://arxiv.org/pdf/2007.09221.pdf)[[Pytorch]](https://github.com/huiqu18/TDGAN-PyTorch)
 ### Medical Related
