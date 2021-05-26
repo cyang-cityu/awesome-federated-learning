@@ -33,6 +33,7 @@ This repo is a collection of AWESOME things about federated learning, including 
 * FedProx: Federated Optimization in Heterogeneous Networks [[MLSys2020]](https://arxiv.org/pdf/1812.06127.pdf)[[Pytorch]](https://github.com/litian96/FedProx)
 * Personalized Federated Learning with Theoretical Guarantees: A Model-Agnostic Meta-Learning Approach [[NIPS2020]](https://proceedings.neurips.cc//paper/2020/file/24389bfe4fe2eba8bf9aa9203a44cdad-Paper.pdf)
 * Personalized Federated Learning with Moreau Envelopes [[NIPS2020]](https://proceedings.neurips.cc/paper/2020/file/f4f1f13c8289ac1b1ee0ff176b56fc60-Paper.pdf)
+* Federated Visual Classification with Real-World Data Distribution [[ECCV2020]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550086.pdf)
 * Federated Mutual Learning [[Arxiv2020]](https://arxiv.org/pdf/2006.16765.pdf)
 * On the Convergence of FedAvg on Non-IID Data [[ICLR2020]](https://arxiv.org/pdf/1907.02189.pdf)
   
