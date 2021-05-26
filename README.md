@@ -62,6 +62,7 @@ Discriminators [[ECCV2020]](https://arxiv.org/pdf/2007.09221.pdf)[[Pytorch]](htt
 * Privacy-Preserving Constrained Domain Generalization for Medical Image Classification [[Arxiv2021]](https://arxiv.org/pdf/2105.08511.pdf)
 * The Federated Tumor Segmentation (FeTS) Challenge [[Arxiv2021]](https://arxiv.org/pdf/2105.05874.pdf)
 * FedDis: Disentangled Federated Learning for Unsupervised Brain Pathology Segmentation [[Arxiv2021]](https://arxiv.org/pdf/2103.03705.pdf)
+* Peer Learning for Skin Lesion Classification [[Arxiv2021]](https://arxiv.org/pdf/2103.03703.pdf)
 * Inverse Distance Aggregation for Federated Learning with Non-IID Data [[MICCAI2020 Workshop]](https://arxiv.org/pdf/2008.07665.pdf)
 * Siloed Federated Learning for Multi-Centric Histopathology Datasets [[MICCAI2020 Workshop]](https://arxiv.org/pdf/2008.07424.pdf)
 * Multi-site fMRI Analysis Using Privacy-preserving Federated Learning and Domain Adaptation: ABIDE Results [[MIA2020]](https://arxiv.org/pdf/2001.05647.pdf)[[Pytorch]](https://github.com/xxlya/Fed_ABIDE)
